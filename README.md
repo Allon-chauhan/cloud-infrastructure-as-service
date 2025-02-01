@@ -1,4 +1,4 @@
-# Module 5 - Cloud & Infrastructure as Service Basics
+# Cloud & Infrastructure as Service Basics
 
 This folder contains data and information required to host a Java-React application on a remote server!
 
